@@ -30,3 +30,4 @@ int Solution::isPalindrome(string A) {
     
     return 1;
 }
+
