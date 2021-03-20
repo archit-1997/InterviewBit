@@ -1,3 +1,4 @@
+
 int Solution::isPalindrome(string A) {
     
     vector<int> s,rev;
@@ -29,3 +30,4 @@ int Solution::isPalindrome(string A) {
     
     return 1;
 }
+
